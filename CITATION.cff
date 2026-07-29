@@ -1,5 +1,6 @@
-If you use this work, please cite it.
-Title: "Evaluating AI Uplift to Influence Operations: A Kill-Chain-Anchored Capability Framework"
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Evaluating AI Uplift to Influence Operations: A Kill-Chain-Anchored Capability Framework"
 authors:
   - family-names: Levy
     given-names: Jodie
@@ -7,4 +8,4 @@ authors:
     given-names: Sumaya
   - family-names: Liashenko
     given-names: Anna
-year: 2026
+date-released: 2026-07-29
