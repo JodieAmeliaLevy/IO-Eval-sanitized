@@ -16,7 +16,7 @@ malicious actors, so they are withheld.
 
 ## Structured access
 Vetted safety researchers, auditors, platforms, and regulators can request access
-to the withheld artifacts under appropriate terms. Contact: **[your email]**.
+to the withheld artifacts under appropriate terms. Contact: jodieamelialevy@gmail.com
 
 This follows standard responsible-disclosure practice for offensive-capability
 evaluations: the measurement framework is shared, operational detail is gated.
