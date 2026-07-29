@@ -6,7 +6,7 @@ This repository is the **public, sanitized release**. Executable adversarial
 artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESPONSIBLE_RELEASE.md).
 
 ## Overview
-This project measures whether frontier and open-weight models provide meaningful.
+This project measures whether frontier and open-weight models provide meaningful
 **uplift** to actors running online influence operations, and anchors that
 measurement in a recognised analytic framework so the results are interpretable
 and actionable for platforms and regulators rather than ad hoc.
@@ -30,23 +30,21 @@ Full detail in [`METHODOLOGY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-san
 Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESULTS_SUMMARY.md).
 
 ## Repository structure
-- `METHODOLOGY.md` ‚Äî framework, scoring scheme, validity notes.
-- `eval/` ‚AI evaluation **harness skeleton** with a **benign placeholder task** that
-  demonstrates the pipeline end to end without any influence-operations content.
-- `results/SUMMARY.md` ‚AI aggregate findings.
-- `RESPONSIBLE_RELEASE.md`  AI what is withheld and why.
-
+- `METHODOLOGY.md` — framework, scoring scheme, validity notes.
+- `harness.py` — evaluation harness skeleton with a benign placeholder task that demonstrates the pipeline end to end without any influence-operations content.
+- `RESULTS_SUMMARY.md` — aggregate findings.
+- `RESPONSIBLE_RELEASE.md` — what is withheld and why.
+  
 ## What is withheld
 The task bank, elicitation prompts, multi-turn attack scaffolding, and raw model
 outputs are **not** included. They are misuse-enabling. Vetted researchers and
 auditors can request structured access (see below).
 
 ## Running the harness
-The production harness runs against the withheld task bank. The included benign
-example demonstrates the pipeline without any influence-operations content:
+The harness is built on Inspect, the UK AI Security Institute's open source evaluation framework.The production harness runs against the withheld task bank. The included benign example demonstrates the pipeline without any influence-operations content:
 ```bash
 pip install -r requirements.txt
-inspect eval eval/harness.py --model <provider/model>
+inspect eval harness.py --model <provider/model>
 ```
 
 ## Citation
