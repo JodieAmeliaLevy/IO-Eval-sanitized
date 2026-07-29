@@ -3,7 +3,7 @@
 
 **Status:** Preprint forthcoming (ValgrAI / University of Valencia, 2026).
 This repository is the **public, sanitized release**. Executable adversarial
-artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Responsible_Release).
+artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESPONSIBLE_RELEASE.md).
 
 ## Overview
 This project measures whether frontier and open-weight models provide meaningful.
@@ -19,7 +19,7 @@ and actionable for platforms and regulators rather than ad hoc.
 - Grading: an LLM judge with blinded human review; **11,088 graded samples**.
 - Headline measure: a **Compound Uplift Score**, plus per-step completion and refusal rates.
 
-Full detail in [`METHODOLOGY.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Methodology).
+Full detail in [`METHODOLOGY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/METHODOLOGY.md).
 
 ## Key findings (high level)
 - Near-universal task compliance across the kill chain.
@@ -27,7 +27,7 @@ Full detail in [`METHODOLOGY.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/
 - Large quality gap between English and Russian outputs.
 - Order-of-magnitude cost spread across models.
 
-Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Results%20Summary).
+Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESULTS_SUMMARY.md).
 
 ## Repository structure
 - `METHODOLOGY.md` ‚Äî framework, scoring scheme, validity notes.
