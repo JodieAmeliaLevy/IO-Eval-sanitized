@@ -48,7 +48,8 @@ Full detail in [`METHODOLOGY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-san
   per comment. Matching the annual output of the largest documented saturation network with
   the cheapest model costs on the order of $1,080 of inference.
 
-Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESULTS_SUMMARY.md).
+Per-step tables and figures are in the paper. Aggregate results are in
+[`RESULTS_SUMMARY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESULTS_SUMMARY.md).
 
 ## Repository structure
 - `METHODOLOGY.md` — framework, scoring scheme, validity notes.
