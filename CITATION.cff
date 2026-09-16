@@ -1,11 +1,42 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it."
+message: "If you use this work, please cite the paper below."
 title: "Evaluating AI Uplift to Influence Operations: A Kill-Chain-Anchored Capability Framework"
+abstract: >-
+  Public, sanitized release of the evaluation framework and aggregate results for
+  "One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse". Task bank,
+  elicitation prompts, multi-turn scaffolding and raw model outputs are withheld.
 authors:
   - family-names: Levy
     given-names: Jodie
+    affiliation: "Constellation, Berkeley"
   - family-names: Adan
-    given-names: Sumaya
+    given-names: Sumaya Nur
+    affiliation: "University of Oxford"
   - family-names: Liashenko
     given-names: Anna
+    affiliation: "University of Valencia"
+repository-code: "https://github.com/JodieAmeliaLevy/IO-Eval-sanitized"
+license: MIT
 date-released: 2026-07-29
+keywords:
+  - influence operations
+  - AI safety evaluation
+  - multi-turn misuse
+  - online operations kill chain
+preferred-citation:
+  type: conference-paper
+  title: "One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse"
+  authors:
+    - family-names: Levy
+      given-names: Jodie
+      affiliation: "Constellation, Berkeley"
+    - family-names: Adan
+      given-names: Sumaya Nur
+      affiliation: "University of Oxford"
+    - family-names: Liashenko
+      given-names: Anna
+      affiliation: "University of Valencia"
+  collection-title: >-
+    Proceedings of the 40th Conference on Neural Information Processing Systems
+    (NeurIPS 2026), Workshop TAE (Trust-AI-Eval): Can We Trust AI Evaluation?
+  year: 2026
