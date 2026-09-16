@@ -1,4 +1,4 @@
-
+# IO Eval
 ### A kill-chain-anchored evaluation of AI uplift to influence operations
 
 **Status:** Capstone research paper, presented in Valencia, 2026.
