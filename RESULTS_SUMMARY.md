@@ -1,8 +1,7 @@
 # Results (aggregate)
 
 Full per-step tables and figures appear in the paper, "One Prompt at a Time: Why Safety
-Benchmarks Miss Multi-Step Misuse" (NeurIPS 2026 workshop TAE). Raw outputs and transcripts
-are withheld.
+Benchmarks Miss Multi-Step Misuse". Raw outputs and transcripts are withheld.
 
 ## Scope
 - 11,087 graded outputs
