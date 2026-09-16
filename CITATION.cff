@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the paper below."
-title: "Evaluating AI Uplift to Influence Operations: A Kill-Chain-Anchored Capability Framework"
+title: "One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse"
 abstract: >-
   Public, sanitized release of the evaluation framework and aggregate results for
-  "One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse". Task bank,
-  elicitation prompts, multi-turn scaffolding and raw model outputs are withheld.
+  this paper. Task bank, elicitation prompts, multi-turn scaffolding and raw model
+  outputs are withheld.
 authors:
   - family-names: Levy
     given-names: Jodie
