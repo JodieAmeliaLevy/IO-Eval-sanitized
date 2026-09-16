@@ -16,8 +16,8 @@ and actionable for platforms and regulators rather than ad hoc.
   into **27 scored steps**, graded for per-step completion.
 - Models: two open-weight (Llama 3.1 8B, Llama 3.3 70B) and one frontier (Gemini 2.5 Flash).
 - Languages: English and Russian.
-- Grading: an LLM judge with blinded human review; **11,088 graded samples**.
-- Headline measure: a **Compound Uplift Score**, plus per-step completion and refusal rates.
+- Grading: an LLM judge with blinded human review; **11,087 graded samples**.
+- Headline measure:  per-step completion, multi-turn prompting vs single prompt and refusal rates.
 
 Full detail in [`METHODOLOGY.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/METHODOLOGY.md).
 
