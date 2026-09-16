@@ -1,11 +1,6 @@
 # Evaluating AI Uplift to Influence Operations
 ### A kill-chain-anchored capability framework
 
-**Status:** Companion release for "One Prompt at a Time: Why Safety Benchmarks Miss
-Multi-Step Misuse".
-This repository is the **public, sanitized release**. Executable adversarial
-artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESPONSIBLE_RELEASE.md).
-
 ## Overview
 This project measures whether frontier and open-weight models provide meaningful
 **uplift** to actors running online influence operations, and anchors that
