@@ -36,7 +36,4 @@ preferred-citation:
     - family-names: Liashenko
       given-names: Anna
       affiliation: "University of Valencia"
-  collection-title: >-
-    Proceedings of the 40th Conference on Neural Information Processing Systems
-    (NeurIPS 2026), Workshop TAE (Trust-AI-Eval): Can We Trust AI Evaluation?
-  year: 2026
+
