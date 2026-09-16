@@ -1,4 +1,4 @@
-# One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse
+
 ### A kill-chain-anchored evaluation of AI uplift to influence operations
 
 **Status:** Capstone research paper, presented in Valencia, 2026.
