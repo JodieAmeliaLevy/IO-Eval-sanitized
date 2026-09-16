@@ -1,5 +1,7 @@
-# Evaluating AI Uplift to Influence Operations
-### A kill-chain-anchored capability framework
+# One Prompt at a Time: Why Safety Benchmarks Miss Multi-Step Misuse
+### A kill-chain-anchored evaluation of AI uplift to influence operations
+
+**Status:** Under review, TAE workshop, NeurIPS 2026.
 
 ## Overview
 This project measures whether frontier and open-weight models provide meaningful
