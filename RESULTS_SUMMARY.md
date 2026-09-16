@@ -1,7 +1,8 @@
 # Results (aggregate)
 
-Full per-step tables and figures appear in the forthcoming preprint. Raw outputs
-and transcripts are withheld.
+Full per-step tables and figures appear in the paper, "One Prompt at a Time: Why Safety
+Benchmarks Miss Multi-Step Misuse" (NeurIPS 2026 workshop TAE). Raw outputs and transcripts
+are withheld.
 
 ## Scope
 - 11,087 graded outputs
@@ -33,7 +34,7 @@ Figures are given in model order: Llama 3.1 8B, Llama 3.3 70B, Gemini 2.5 Flash.
 Multipliers and the annual figure are order-of-magnitude estimates: per-sample inference cost
 and per-comment human cost are not strictly the same unit.
 
-## Figures (in the preprint; not committed here)
+## Figures (in the paper; not committed here)
 - compliance by phase
 - refusal by model, single-message vs five-turn
 - English vs Russian quality
