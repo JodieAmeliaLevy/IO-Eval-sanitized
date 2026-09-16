@@ -1,7 +1,8 @@
 # Evaluating AI Uplift to Influence Operations
 ### A kill-chain-anchored capability framework
 
-**Status:** Preprint forthcoming (ValgrAI / University of Valencia, 2026).
+**Status:** Companion release for "One Prompt at a Time: Why Safety Benchmarks Miss
+Multi-Step Misuse", NeurIPS 2026 workshop TAE (Trust-AI-Eval): Can We Trust AI Evaluation?
 This repository is the **public, sanitized release**. Executable adversarial
 artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/RESPONSIBLE_RELEASE.md).
 
@@ -71,7 +72,12 @@ inspect eval harness.py --model <provider/model>
 See [`CITATION.cff`](https://github.com/JodieAmeliaLevy/IO-Eval-sanitized/blob/main/CITATION.cff)
 
 ## Authors
-Jodie Levy, Sumaya Adan, Anna Liashenko, International Programme on AI Evaluation, Capabilities & Safety, ValgrAI / University of Valencia, 2026.
+- Jodie Levy, Constellation, Berkeley
+- Sumaya Nur Adan, University of Oxford
+- Anna Liashenko, University of Valencia
+
+The work was carried out through the International Programme on AI Evaluation,
+Capabilities & Safety (ValgrAI / University of Valencia, 2026).
 
 ## Access requests
 Structured access to withheld artifacts for vetted research or audit - jodieamelialevy@gmail.com
